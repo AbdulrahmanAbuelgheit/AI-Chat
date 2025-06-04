@@ -282,7 +282,6 @@ header h1 {
     font-weight: bold;
     letter-spacing: 1px;
     background: linear-gradient(90deg, #10a37f 60%, #43e97b 100%);
-    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 .navbar-right button {

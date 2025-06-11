@@ -18,7 +18,7 @@ A modern, full-featured AI chat web application with support for:
 ### Image Generation
 ![Image Generation Example](Screenshot%202025-06-04%20223315.png)
 ### Upload Image Example
-![Upload Image Example](Screenshot 2025-06-11 135800.png)
+![Upload Image Example](Screenshot%202025-06-04%20223315.png)
 
 ---
 
